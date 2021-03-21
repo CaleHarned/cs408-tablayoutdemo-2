@@ -5,4 +5,31 @@
     <string name="output_text_1">Hello, World! (Fragment One)</string>
     <string name="output_text_2">Hello, World! (Fragment Two)</string>
     <string name="input_button">Click Me!</string>
+    <string name="plusminus">±</string>
+    <string name="Sqrt">√</string>
+    <string name="division">÷</string>
+    <string name="multiplication">×</string>
+    <string name="Equals">=</string>
+    <string name="_0">0</string>
+    <string name="_4">4</string>
+    <string name="_7">7</string>
+    <string name="_5">5</string>
+    <string name="_8">8</string>
+    <string name="_2">2</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="_9">9</string>
+    <string name="Decimal">.</string>
+    <string name="Addition">+</string>
+    <string name="Clear">C</string>
+    <string name="Modulus">%</string>
+    <string name="Subtraction">-</string>
+    <string name="enter_cost">Enter the bill total</string>'
+    <string name="enter_tip">Enter the tip percentage</string>
+    <string name="enter_people">Enter the # of people</string>
+    <string name="calculate">Calculate payment per person</string>
+    <string name="amount_per_person">This will show the total amount paid per person</string>
+    <string name="dollarSign">$</string>
+
 </resources>
